@@ -10,7 +10,8 @@ Wind speed: ___ m/s
 Description: ___  
 Tips: ___  
 ## Демонстрация работы сервиса
-
+![alt text](https://github.com/thetoropov/weather-forecast-bot/blob/master/work1.PNG)  
+![alt text](https://github.com/thetoropov/weather-forecast-bot/blob/master/work2.PNG)
 ## Процесс работы программы
 Чат-бот имеет две команды:
 * ```!helper``` 
